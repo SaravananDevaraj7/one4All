@@ -84,6 +84,7 @@ Some useful links to search for hackathons around you: <br>
 | Intel Software Innovator Program  | [Visit the page](https://devmesh.intel.com/member-programs/intel-software-innovator-program#:~:text=Intel%20Software%20Innovator%20Program%20The%20Intel%C2%AE%20Software%20Innovator,demonstration%20opportunities%20at%20industry%20events%20and%20developer%20gatherings.)  | (Check the website) |
 | AWS Educate Student Ambassador | [Visit the page](https://aws.amazon.com/education/awseducate/student-ambassador-program/)  | (Check the website)  | 
 | Alexa student influencer | [Visit the page](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer)  | (Check the website) | 
+|InterviewBit CAMPUS AMBASSADOR PROGRAM | [Visit the page](https://www.interviewbit.com/pages/campus-ambassador/)  | (Check the website)  | 
 
 <div align="right">
     <b><a href="#table-of-contents">⬆ Back To Top
